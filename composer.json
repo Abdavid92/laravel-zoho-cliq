@@ -1,5 +1,5 @@
 {
-    "name": "realrashid/laravel-zoho-cliq",
+    "name": "abdavid/laravel-zoho-cliq",
     "description": "A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application.",
     "keywords": [
         "laravel",
